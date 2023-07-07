@@ -8,13 +8,20 @@ It employs the Streamlit framework for the front end and integrates the TMDB API
 
 It relies on the following dependencies:
 Python 3.7+
+
 Streamlit
+
 Pandas
+
 Scikit-learn
+
 Requests
+
+
 
 You can clone the repo using the following command:
 git clone https://github.com/SabaaN/movie-recommendation-system.git
+
 
 
 This project is distributed under the MIT License. 
