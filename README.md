@@ -6,7 +6,8 @@ It employs the Streamlit framework for the front end and integrates the TMDB API
 
 
 
-It relies on the following dependencies:
+## Requirements
+
 Python 3.7+
 
 Streamlit
