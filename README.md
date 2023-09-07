@@ -19,10 +19,5 @@ Scikit-learn
 
 
 
-
-You can clone the repo using the following command:
-git clone https://github.com/SabaaN/movie-recommendation-system.git
-
-
 ## License
 This project is distributed under the MIT License. 
